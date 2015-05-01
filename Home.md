@@ -116,5 +116,5 @@ just a screenshot of the name from the project website.
 [Github Pages]: https://pages.github.com/
 [Github token]: https://github.com/blog/1509-personal-api-tokens
 [Potherca Bot]: https://github.com/potherca-bot
-[Newcomen]: https://newcomen.github.com/
+[Newcomen]: https://newcomen.github.io/
 [Newcomen Font]: https://typekit.com/fonts/newcomen
