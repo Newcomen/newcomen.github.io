@@ -4,7 +4,7 @@ permalink: /
 
 # [Newcomen]
 
-[![Project Stage Badge: Development]][Project Stage Page] ![License Badge]
+[![Project Stage Badge: Development]][Project Stage Page] [![License Badge]][License Page] [![Source Badge]][Github Page]
 
 ## Introduction
 
@@ -113,8 +113,11 @@ just a screenshot of the name from the project website.
 [Project Stage Badge: Development]: http://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
 [Project Stage Page]: http://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
 [License Badge]: http://img.shields.io/:license-GPL--3.0-blue.svg
+[License Page]: http://newcomen.github.io/LICENSE
 [Github Pages]: https://pages.github.com/
 [Github token]: https://github.com/blog/1509-personal-api-tokens
 [Potherca Bot]: https://github.com/potherca-bot
 [Newcomen]: http://newcomen.github.io/
 [Newcomen Font]: https://typekit.com/fonts/newcomen
+[Github Page]: https://github.com/Newcomen
+[Source Badge]: http://img.shields.io/badge/source_available_on-Github-blue.svg
