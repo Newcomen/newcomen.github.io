@@ -1,0 +1,8 @@
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
