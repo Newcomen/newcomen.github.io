@@ -8,9 +8,9 @@ permalink: /
 
 ## Introduction
 
-This projects contains a simple script and some documentation explaining how to
-create a setup that hosts a website on [Github Pages] without
-mixing the content of the website with the website's templates and resources.
+This projects contains a bash script and some documentation explaining how to
+hosts a website on [Github Pages] without mixing the content of the website with 
+the website's templates and resources.
 
 ## Setup
 
