@@ -21,4 +21,10 @@
     <div class="container">
         {{ content }}
     </div>
+    
+    {% for file in site.static_files %}
+        {% if file.path == '/js/comments.js' %}
+            {% include comments.html %}
+        {% endif %}
+    {% endfor %}
 </html>
