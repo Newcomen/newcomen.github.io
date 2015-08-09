@@ -5,4 +5,6 @@ defaults:
     values:
       layout: "default"
 
+comments_repo: "Newcomen/Docs"
+
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
