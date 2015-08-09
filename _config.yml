@@ -1,0 +1,10 @@
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+
+comments_repo: "Newcomen/Docs"
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
