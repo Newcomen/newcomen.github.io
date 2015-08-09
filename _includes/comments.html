@@ -45,7 +45,7 @@
 
 <script>
     jQuery("#comments").githubComments(
-        '{{ site.github.repository_nwo }}',
+        '{% if site.repository_nwo %}{{ site.repository_nwo }}{% else %}{{ site.github.repository_nwo }}{% endif %}',
         jQuery('#commentTemplate').html(),
         {
             'title': '{{ page.title }}',
