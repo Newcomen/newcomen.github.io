@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: The Newcomen Project
 ---
 
 # [Newcomen]
