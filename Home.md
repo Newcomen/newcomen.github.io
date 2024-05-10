@@ -26,8 +26,8 @@ content:
  2. the content to be placed in the templates
  3. generated code
 
-The generated website will be available from `http://[repository-name].github.io`
-or `http://[user-name].github.io/[repository-name]` depending on whether the
+The generated website will be available from `https://[repository-name].github.io`
+or `https://[user-name].github.io/[repository-name]` depending on whether the
 Github repository is a User (or Organization) Page or a Project Page.
 
 ### Builds
@@ -111,14 +111,14 @@ Also, all of the other character's names were already taken.
 The [font used for the logo][Newcomen Font] is also called Newcomen. The logo is (more or less)
 just a screenshot of the name from the project website.
 
-[Project Stage Badge: Development]: http://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
-[Project Stage Page]: http://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
-[License Badge]: http://img.shields.io/:license-GPL--3.0-blue.svg
-[License Page]: http://newcomen.github.io/LICENSE
+[Project Stage Badge: Development]: https://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
+[Project Stage Page]: https://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
+[License Badge]: https://img.shields.io/:license-GPL--3.0-blue.svg
+[License Page]: https://newcomen.github.io/LICENSE
 [Github Pages]: https://pages.github.com/
 [Github token]: https://github.com/blog/1509-personal-api-tokens
 [Potherca Bot]: https://github.com/potherca-bot
-[Newcomen]: http://newcomen.github.io/
+[Newcomen]: https://newcomen.github.io/
 [Newcomen Font]: https://typekit.com/fonts/newcomen
 [Github Page]: https://github.com/Newcomen
-[Source Badge]: http://img.shields.io/badge/source_available_on-Github-blue.svg
+[Source Badge]: https://img.shields.io/badge/source_available_on-Github-blue.svg
