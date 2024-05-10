@@ -10,9 +10,9 @@ This repository contains the documentation for the [Newcomen] project.
 
 Created by [Potherca] under a [GPL-3.0 License].
 
-[Project Stage Badge: Development]: http://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
-[Project Stage Page]: http://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
-[License Badge]: http://img.shields.io/:license-GPL--3.0-blue.svg
-[Newcomen]: http://newcomen.github.io/
-[Potherca]: http://pother.ca/
+[Project Stage Badge: Development]: https://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
+[Project Stage Page]: https://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0
+[License Badge]: https://img.shields.io/:license-GPL--3.0-blue.svg
+[Newcomen]: https://newcomen.github.io/
+[Potherca]: https://pother.ca/
 [GPL-3.0 License]: ./LICENSE
